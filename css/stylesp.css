@@ -1,0 +1,23 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+#title {
+    background-color: brown;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+p {
+    font-size: 1.5rem; 
+    color: blanchedalmond;
+}
+.b-cont {
+    background-color:crimson;
+    margin: 0%;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
