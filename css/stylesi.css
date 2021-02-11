@@ -15,10 +15,12 @@ p {
 img {
     width: 200px;
     height: 300px;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 img:hover {
     opacity: 1;
+    transform: rotateY(20deg);
+    box-shadow: 10px 10px 5px grey;
 }
 .b-cont {
     background-color:crimson;
